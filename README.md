@@ -1,5 +1,5 @@
-### Hi This is Carolyn's place.
-I am studying master degree of department of Information Management of National Taiwan University.
+### This is Carolyn's place
+I master degree student of department of Information Management of National Taiwan University.
 
 [![](https://raw.githubusercontent.com/ShihYun0130/ShihYun0130/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ShihYun0130/ShihYun0130/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ShihYun0130/ShihYun0130/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
